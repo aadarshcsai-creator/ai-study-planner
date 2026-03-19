@@ -1,0 +1,3 @@
+Math: 2.4 hours
+Physics: 1.6 hours
+Programming: 4.0 hours
